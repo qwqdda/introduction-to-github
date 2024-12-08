@@ -1,0 +1,13 @@
+my-store-project/
+│
+├── index.php          (الملف الرئيسي)
+├── db/
+│   └── database.sql   (ملف قاعدة البيانات)
+├── includes/
+│   ├── header.php     (ملف الهيدر)
+│   ├── footer.php     (ملف الفوتر)
+│   └── db_connect.php (ملف الاتصال بقاعدة البيانات)
+├── css/
+│   └── style.css      (ملف التنسيقات)
+└── js/
+    └── script.js      (ملف الجافاسكريبت)
