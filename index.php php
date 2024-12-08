@@ -1,0 +1,13 @@
+<?php
+// استدعاء ملفات الهيدر والاتصال بقاعدة البيانات
+include 'includes/header.php';
+include 'includes/db_connect.php';
+?>
+
+<h1>مرحبًا بكم في متجرنا!</h1>
+<p>هذا هو الصفحة الرئيسية للمشروع.</p>
+
+<?php
+// استدعاء ملف الفوتر
+include 'includes/footer.php';
+?>
